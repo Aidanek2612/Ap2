@@ -12,7 +12,7 @@ x1 = phi (x0)
 res = abs(x1-x0)
 
 
-
+print("ffff")
 print (f"Начальное приближение x0 = {x0}")
 print (f"x1 = {x1}")
 print (f"Разница = {res}")
