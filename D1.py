@@ -6,7 +6,7 @@ def phi (x):
 def phi1 (x):
     return -math.sin(x)
 
-x0 = 10
+x0 = 1
 eps = 0.000001
 x1 = phi (x0)
 res = abs(x1-x0)
